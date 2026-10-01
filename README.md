@@ -210,13 +210,13 @@ run.bat
 **interactive**
 
 ```bash
-python mwc.py
+python monster-web-cracker.py
 ```
 
 **one-shot**
 
 ```bash
-python mwc.py https://target.tld -p 120 -d 4
+python monster-web-cracker.py https://target.tld -p 120 -d 4
 ```
 
 **flags**
@@ -237,7 +237,7 @@ python mwc.py https://target.tld -p 120 -d 4
 ## ✦ output tree
 
 ```text
-MWC_<host>_<timestamp>/
+monster-web-cracker_<host>_<timestamp>/
 ├── pages/          html sources
 ├── css/            stylesheets
 ├── js/             scripts
@@ -352,7 +352,7 @@ PRs welcome. rules:
 2. keep changes cross-platform (termux / linux / macos / windows)
 3. no new dependencies without strong reason
 4. match existing style (compact, modern ui, no fluff)
-5. run `python mwc.py --help` + a small local crawl before submitting
+5. run `python monster-web-cracker.py --help` + a small local crawl before submitting
 
 see [`CONTRIBUTING.md`](CONTRIBUTING.md).
 

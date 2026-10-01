@@ -7,7 +7,7 @@
 
 <!-- animated gradient header -->
 <a href="https://github.com/MonstarTrader/monster-web-cracker">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:d946ef,100:8b5cf6&height=220&section=header&text=MONSTER%20WEB%20CRACKER&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=v5.0%20%C2%B7%20Modern%20Edition%20%C2%B7%20by%20MR%20HAXOR&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:d946ef,100:8b5cf6&height=220&section=header&text=MONSTER%20WEB%20CRACKER&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=v5.0%20%C2%B7%20Developed%20%20%C2%B7%20by%20MR%20HAXOR&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
 </a>
 
 <!-- animated typing tagline -->
@@ -44,10 +44,10 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/monster-web-cracker?style=for-the-badge&labelColor=0f172a&color=22d3ee&logo=github" alt="stars" />
-  <img src="https://img.shields.io/github/forks/YOUR_USERNAME/monster-web-cracker?style=for-the-badge&labelColor=0f172a&color=d946ef&logo=git" alt="forks" />
-  <img src="https://img.shields.io/github/issues/YOUR_USERNAME/monster-web-cracker?style=for-the-badge&labelColor=0f172a&color=a855f7&logo=github" alt="issues" />
-  <img src="https://img.shields.io/github/last-commit/YOUR_USERNAME/monster-web-cracker?style=for-the-badge&labelColor=0f172a&color=22c55e&logo=git" alt="last commit" />
+  <img src="https://img.shields.io/github/stars/MonstarTrader/monster-web-cracker?style=for-the-badge&labelColor=0f172a&color=22d3ee&logo=github" alt="stars" />
+  <img src="https://img.shields.io/github/forks/MonstarTrader/monster-web-cracker?style=for-the-badge&labelColor=0f172a&color=d946ef&logo=git" alt="forks" />
+  <img src="https://img.shields.io/github/issues/MonstarTrader/monster-web-cracker?style=for-the-badge&labelColor=0f172a&color=a855f7&logo=github" alt="issues" />
+  <img src="https://img.shields.io/github/last-commit/MonstarTrader/monster-web-cracker?style=for-the-badge&labelColor=0f172a&color=22c55e&logo=git" alt="last commit" />
 </p>
 
 <br/>
@@ -336,8 +336,8 @@ No config files. No daemon. No telemetry. Just a target and a folder full of int
 
 <div align="center">
 
-<a href="https://star-history.com/#YOUR_USERNAME/monster-web-cracker&Date">
-  <img src="https://api.star-history.com/svg?repos=YOUR_USERNAME/monster-web-cracker&type=Date" alt="star history" width="80%" />
+<a href="https://star-history.com/MonstarTrader/monster-web-cracker&Date">
+  <img src="https://api.star-history.com/svg?repos=MonstarTrader/monster-web-cracker&type=Date" alt="star history" width="80%" />
 </a>
 
 </div>
@@ -381,7 +381,7 @@ MIT — see [`LICENSE`](LICENSE).
   <img src="https://img.shields.io/badge/telegram-%40Monstar__Trader-22d3ee?style=for-the-badge&labelColor=0f172a&logo=telegram&logoColor=22d3ee" alt="telegram dm" />
 </a>
 <a href="https://github.com/MonstarTrader">
-  <img src="https://img.shields.io/badge/github-YOUR__USERNAME-a855f7?style=for-the-badge&labelColor=0f172a&logo=github&logoColor=a855f7" alt="github" />
+  <img src="https://img.shields.io/badge/github-MonstarTrader-a855f7?style=for-the-badge&labelColor=0f172a&logo=github&logoColor=a855f7" alt="github" />
 </a>
 
 <br/><br/>

@@ -12,10 +12,10 @@
 # ║                                                                      ║
 # ╠══════════════════════════════════════════════════════════════════════╣
 # ║                                                                      ║
-# ║     MONSTER WEB CRACKER  ·  v5.0  ·  MODERN EDITION                  ║
+# ║     MONSTER WEB CRACKER  ·  v5.0  ·  POWERFUL CRACKER                  ║
 # ║     deep crawler · async engine · secret hunter · endpoint miner     ║
 # ║                                                                      ║
-# ║     AUTHOR  ::  MR HAXOR                                             ║
+# ║     AUTHOR  ::  MR HAXOR (MONSTER)                                            ║
 # ║                                                                      ║
 # ╚══════════════════════════════════════════════════════════════════════╝
 
@@ -413,7 +413,7 @@ def banner():
 
     print(f"  {SL}╭{'─'*(w-4)}╮{RS}")
     print(f"  {SL}│{RS}  {pill('MONSTER WEB CRACKER', C1)}   "
-          f"{SL}v{VERSION} · MODERN EDITION{RS}")
+          f"{SL}v{VERSION} · POWERFULL CRACKER{RS}")
     print(f"  {SL}│{RS}  {DW}deep crawler · async engine · secret hunter · "
           f"endpoint miner{RS}")
     print(f"  {SL}│{RS}")

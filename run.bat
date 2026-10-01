@@ -5,7 +5,7 @@ cd /d "%~dp0"
 
 where py >nul 2>nul
 if %errorlevel%==0 (
-    py mwc.py %*
+    py monster-web-cracker.py %*
 ) else (
     python monster-web-cracker.py %*
 )

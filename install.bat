@@ -28,5 +28,5 @@ echo -^> installing pip deps
 %PY% -m pip install -r requirements.txt
 
 echo.
-echo :: done.  run:  run.bat   or   %PY% mwc.py
+echo :: done.  run:  run.bat   or   %PY% monster-web-cracker.py
 endlocal

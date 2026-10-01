@@ -7,5 +7,5 @@ where py >nul 2>nul
 if %errorlevel%==0 (
     py mwc.py %*
 ) else (
-    python mwc.py %*
+    python monster-web-cracker.py %*
 )

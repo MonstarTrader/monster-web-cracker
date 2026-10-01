@@ -775,7 +775,7 @@ def make_out(base_url):
     host = re.sub(r"[^a-zA-Z0-9_\-]", "_",
                   urlparse(base_url).netloc.replace("www.",""))
     ts = time.strftime("%Y%m%d_%H%M%S")
-    root = f"MWC_{host}_{ts}"
+    root = f"monster-web-cracker_{host}_{ts}"
     for sub in SUBFOLDERS:
         os.makedirs(os.path.join(root, sub), exist_ok=True)
     return root
@@ -934,7 +934,7 @@ def probe_dirs(state):
 # ══════════════════════════════════════════════════════════════════════
 #  REFLECTION TEST
 # ══════════════════════════════════════════════════════════════════════
-REFLECT_MARKER = "mwc5x1337"
+REFLECT_MARKER = "monster-web-cracker5x1337"
 
 def test_reflection(state, url, method="GET", param=None):
     if not param: return

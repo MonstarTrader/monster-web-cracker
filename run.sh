@@ -14,4 +14,4 @@ if [ -z "$PY" ]; then
   exit 1
 fi
 
-exec "$PY" mwc.py "$@"
+exec "$PY" monster-web-cracker.py "$@"

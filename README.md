@@ -6,12 +6,12 @@
 <div align="center">
 
 <!-- animated gradient header -->
-<a href="https://github.com/YOUR_USERNAME/monster-web-cracker">
+<a href="https://github.com/MonstarTrader/monster-web-cracker">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:d946ef,100:8b5cf6&height=220&section=header&text=MONSTER%20WEB%20CRACKER&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=v5.0%20%C2%B7%20Modern%20Edition%20%C2%B7%20by%20MR%20HAXOR&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
 </a>
 
 <!-- animated typing tagline -->
-<a href="https://github.com/YOUR_USERNAME/monster-web-cracker">
+<a href="https://github.com/MonstarTrader/monster-web-cracker">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=600&color=22D3EE&center=true&vCenter=true&width=720&lines=deep+crawler+%C2%B7+async+engine+%C2%B7+secret+hunter;JS+endpoint+miner+%C2%B7+dir+prober+%C2%B7+sitemap+walker;sourcemap+fetcher+%C2%B7+reflection+tester+%C2%B7+form+inventory;termux+%C2%B7+linux+%C2%B7+macos+%C2%B7+windows" alt="typing" />
 </a>
 
@@ -28,6 +28,19 @@
   <img src="https://img.shields.io/badge/python-3.8%2B-a855f7?style=for-the-badge&labelColor=0f172a&logo=python&logoColor=a855f7" alt="python" />
   <img src="https://img.shields.io/badge/platform-termux%20%7C%20linux%20%7C%20macos%20%7C%20windows-d946ef?style=for-the-badge&labelColor=0f172a&logo=linux&logoColor=d946ef" alt="platform" />
   <img src="https://img.shields.io/badge/license-MIT-22c55e?style=for-the-badge&labelColor=0f172a&logo=opensourceinitiative&logoColor=22c55e" alt="license" />
+</p>
+
+<!-- social badge row -->
+<p>
+  <a href="https://t.me/Monstar_Trading">
+    <img src="https://img.shields.io/badge/Telegram-Channel-22d3ee?style=for-the-badge&labelColor=0f172a&logo=telegram&logoColor=22d3ee" alt="telegram channel" />
+  </a>
+  <a href="https://t.me/Monstar_Trader">
+    <img src="https://img.shields.io/badge/Telegram-MR%20HAXOR-d946ef?style=for-the-badge&labelColor=0f172a&logo=telegram&logoColor=d946ef" alt="telegram contact" />
+  </a>
+  <a href="https://github.com/MonstarTrader">
+    <img src="https://img.shields.io/badge/GitHub-YOUR__USERNAME-a855f7?style=for-the-badge&labelColor=0f172a&logo=github&logoColor=a855f7" alt="github" />
+  </a>
 </p>
 
 <p>
@@ -50,6 +63,53 @@
 <div align="center">
 
 ### `[ deep crawler · async engine · secret hunter · endpoint miner ]`
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                              CONTACT                                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## ✦ contact · support
+
+<div align="center">
+
+<a href="https://t.me/Monstar_Trading">
+  <img src="https://img.shields.io/badge/📢%20CHANNEL%20·%20Monstar__Trading-d946ef?style=for-the-badge&labelColor=0f172a&logo=telegram&logoColor=d946ef" alt="telegram channel" />
+</a>
+
+<br/><br/>
+
+<a href="https://t.me/Monstar_Trader">
+  <img src="https://img.shields.io/badge/💬%20DM%20·%20%40Monstar__Trader-22d3ee?style=for-the-badge&labelColor=0f172a&logo=telegram&logoColor=22d3ee" alt="telegram dm" />
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**📢 updates · releases · drops**
+
+join the channel
+
+[`t.me/Monstar_Trading`](https://t.me/Monstar_Trading)
+
+</td>
+<td align="center" width="50%">
+
+**💬 questions · bugs · requests**
+
+direct message
+
+[`t.me/Monstar_Trader`](https://t.me/Monstar_Trader)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -114,7 +174,7 @@ pkg update && pkg upgrade -y
 pkg install -y python git
 pip install --upgrade pip
 
-git clone https://github.com/YOUR_USERNAME/monster-web-cracker.git
+git clone https://github.com/MonstarTrader/monster-web-cracker.git
 cd monster-web-cracker
 pip install -r requirements.txt
 ./run.sh
@@ -125,7 +185,7 @@ pip install -r requirements.txt
 <summary><b>🐧 Linux / 🍎 macOS</b></summary>
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/monster-web-cracker.git
+git clone https://github.com/MonstarTrader/monster-web-cracker.git
 cd monster-web-cracker
 ./install.sh
 ./run.sh
@@ -136,7 +196,7 @@ cd monster-web-cracker
 <summary><b>🪟 Windows (cmd / powershell)</b></summary>
 
 ```cmd
-git clone https://github.com/YOUR_USERNAME/monster-web-cracker.git
+git clone https://github.com/MonstarTrader/monster-web-cracker.git
 cd monster-web-cracker
 install.bat
 run.bat
@@ -314,9 +374,19 @@ MIT — see [`LICENSE`](LICENSE).
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/github-YOUR__USERNAME-22d3ee?style=for-the-badge&labelColor=0f172a&logo=github" alt="github" />
+<a href="https://t.me/Monstar_Trading">
+  <img src="https://img.shields.io/badge/channel-%40Monstar__Trading-d946ef?style=for-the-badge&labelColor=0f172a&logo=telegram&logoColor=d946ef" alt="telegram channel" />
 </a>
+<a href="https://t.me/Monstar_Trader">
+  <img src="https://img.shields.io/badge/telegram-%40Monstar__Trader-22d3ee?style=for-the-badge&labelColor=0f172a&logo=telegram&logoColor=22d3ee" alt="telegram dm" />
+</a>
+<a href="https://github.com/MonstarTrader">
+  <img src="https://img.shields.io/badge/github-YOUR__USERNAME-a855f7?style=for-the-badge&labelColor=0f172a&logo=github&logoColor=a855f7" alt="github" />
+</a>
+
+<br/><br/>
+
+<sub>follow the channel for releases · dm for anything else</sub>
 
 </div>
 
@@ -328,5 +398,10 @@ MIT — see [`LICENSE`](LICENSE).
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:d946ef,100:0ea5e9&height=140&section=footer&text=monster%20web%20cracker%20%C2%B7%20v5.0&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" alt="footer" />
 
 <sub>built with teeth. shipped with claws.</sub>
+
+<br/><br/>
+
+<a href="https://t.me/Monstar_Trading">channel</a> ·
+<a href="https://t.me/Monstar_Trader">contact</a>
 
 </div>
